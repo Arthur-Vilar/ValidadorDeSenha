@@ -1,0 +1,1 @@
+Desenvolvi uma aplicação em Python para validação de senha com base em critérios de segurança, como tamanho mínimo, presença de número, letra maiúscula e caractere especial. O programa informa ao usuário quais foram os requisitos não atendidos, e não cadastra a senha até estar no padrão requisitado.
